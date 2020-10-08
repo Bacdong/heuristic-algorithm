@@ -46,9 +46,21 @@ Enter quantity task (n)
 * Step 7:
 `
 Enter time complete the job
+`
+
+`
 The 1th job comletion time is: 12
+`
+
+`
 The 2th job comletion time is: 3
+`
+
+`
 The 3th job comletion time is: 7
+`
+
+`
 The 4th job comletion time is: 21
 `
 ![Step 7: Demo](https://github.com/Bacdong/Exercise-2-Heuristic-Algorithm/blob/master/Exercise-1.10/demo/step7.png)
